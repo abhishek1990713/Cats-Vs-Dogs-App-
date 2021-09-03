@@ -22,7 +22,11 @@ I
 <img src='static/img/predict.png'>
 
 </p>
-
+ Image Classification
+ Image classification refer to the task of extracting information classes from a multiband raster Image.
+ Depending on the interaction between the analyst and the computer during the classification, there two type of classification : supervised and unsupervised
+ we will working with supervised image classification
+ 
 ## Tools Used:
 * Tensorflow
 * Keras
